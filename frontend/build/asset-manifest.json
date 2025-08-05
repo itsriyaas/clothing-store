@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e4f2e82.css",
-    "main.js": "/static/js/main.43382112.js",
+    "main.css": "/static/css/main.880f25df.css",
+    "main.js": "/static/js/main.bda63d65.js",
     "static/media/saree_banner.webp": "/static/media/saree_banner.2d6722fd4abab89e94a4.webp",
     "static/media/saree.webp": "/static/media/saree.9efa7b26d1aac2965a8a.webp",
     "static/media/saree1.webp": "/static/media/saree1.57718604a4f30b2b8eb2.webp",
@@ -23,7 +23,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.9e4f2e82.css",
-    "static/js/main.43382112.js"
+    "static/css/main.880f25df.css",
+    "static/js/main.bda63d65.js"
   ]
 }
